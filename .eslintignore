@@ -1,0 +1,4 @@
+build/*.js
+config/*.js
+src/assets/font/*.js
+node_modules/
